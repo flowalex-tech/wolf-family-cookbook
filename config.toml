@@ -1,4 +1,4 @@
-baseurl = "http://wolf-family-cookbook.gitlab.io"
+baseurl = "https://wolf-family-cookbook.gitlab.io"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -6,85 +6,51 @@ title = "Wolf Family Cookbook"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "hugo-theme-learn"
-paginate = 5
-pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
-copyright = ""
-metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+theme = "gochowdown"
+paginate = 20
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsOptions = "linenos=table"
 
-[Params]
-  subtitle = "Recipies for the family"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = true
-  rss = true
-  comments = false
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
-
-[Author]
-  name = "Alex Wolf"
-  email = "flowalex@vivaldi.net"
-  gitlab = "flowalex"
-  github = "username"
-  twitter = "username"
-  linkedin = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-
+[permalinks]
+posts = "/posts/:year/:month/:title"
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
-  showVisitedLinks = true
-  disableBreadcrumb = false
-  disableNextPrev = false
+author = "Alex Wolf"
+description = "Recipies for the Wolf family"
+keywords = "recipes"
+favicon_32 = "/images/favicon-32x32.png"
+favicon_16 = "/images/favicon-16x16.png"
+hidecredits = false
+hidecopyright = false
+showNavTitle = false
+custom_css = [
+  "style.css"
+]
 
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
-
-[Languages]
-[Languages.en]
-title = "Documentation for Hugo Learn Theme"
-weight = 1
-languageName = "English"
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
-weight = 10
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
+[menu]
+  [[menu.main]]
+  name = "Home"
+  weight = 1.0
+  url = "/"
+  [[menu.main]]
+  name = "Breakfast"
+  weight = 2.0
+  url = "/breakfast/"
+  [[menu.main]]
+  name = "Lunch & Dinner"
+  weight = 3.0
+  url = "/lunch-dinner/"
+  [[menu.main]]
+  name = "Sides"
+  weight = 4.0
+  url = "/sides/"
+  [[menu.main]]
+  name = "Desserts"
+  weight = 5.0
+  url = "/dessert/"
+[taxonomies]
+category = "category"
+cusine = "cuisine"
+tag = "tags"
