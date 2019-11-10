@@ -1,6 +1,7 @@
 ---
 title: Adeline's Lemon Bars
 date: 2019-11-10
+tags: ["Bars"]
 ---
 
 ## Ingredients:
