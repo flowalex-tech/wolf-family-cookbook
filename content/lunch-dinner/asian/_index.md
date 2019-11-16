@@ -1,10 +1,8 @@
----
-title: Asian
-date: 2019-11-10
----
++++
+title = "Asian"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## Lunch and Dinner Recipies
 
-* [Paella Valenciana](/lunch-dinner/paella_valenciana)
-* [Spinach With Chickpeas](/lunch-dinner/spinach_with_chickpeas)
-* [Salmorejo](/lunch-dinner/salmorejo/)

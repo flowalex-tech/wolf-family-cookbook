@@ -1,8 +1,9 @@
----
-title: Adeline's Lemon Bars
-date: 2019-11-10
-tags: ["Bars"]
----
++++
+title = "Adeline's Lemon Bars"
+date = "2019-10-11"
+lastmodifierdisplayname = "Adeline McCarney"
+tags= ["Bars"]
++++
 
 ## Ingredients:
 

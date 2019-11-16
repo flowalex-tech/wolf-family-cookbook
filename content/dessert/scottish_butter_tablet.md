@@ -1,7 +1,9 @@
----
-title: Scottish Butter Tablet
-date: 2019-11-10
----
++++
+title = "Scottish Butter Tablet"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags= ["Bars"]
++++
 ## Ingredients:
 
 * 1 Can of Sweetened Condensed Milk

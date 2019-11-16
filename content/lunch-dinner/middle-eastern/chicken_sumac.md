@@ -1,8 +1,9 @@
----
-title: Chicken Sumac
-date: 2019-11-11
-tags: ["Middle Eastern"]
----
++++
+title = "Chicken Sumac"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
++++
 
 > **NOTE:** Use only sumac purchased at Middle-Eastern grocery stores.  Many species are not related to the spice
 

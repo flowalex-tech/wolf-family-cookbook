@@ -1,8 +1,9 @@
----
-title: Chicken & Rice Skillet
-date: 2019-11-10
-tags: ["Middle Eastern"]
----
++++
+title = "Chicken & Rice Skillet"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
++++
 
 ## Ingredients:
 

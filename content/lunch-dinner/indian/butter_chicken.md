@@ -1,8 +1,9 @@
----
-title: Butter Chicken
-date: 2019-11-10
-tags: ["Indian"]
----
++++
+title = "Butter Chicken"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Indian"]
++++
 
 ## INGREDIENTS:
 
@@ -31,5 +32,15 @@ tags: ["Indian"]
 
 ## DIRECTIONS:
 
-1. Heat 1 tablespoon oil in a large saucepan over medium high heat. Saute shallot and onion until soft and translucent. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. Season with salt pepper. Remove from heat and set aside.
-2. Heat 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes. Reduce heat, and season with 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Stir cooked chicken into sauce.
+1. Heat 1 tablespoon oil in a large saucepan over medium high heat. 
+2. Saute shallot and onion until soft and translucent. 
+3. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. 
+4. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. 
+5. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. 
+6. Season with salt and pepper. 
+7. Remove from heat and set aside.
+8. Heat 1 tablespoon oil in a large heavy skillet over medium heat. 
+9. Cook chicken until lightly browned, about 10 minutes. 
+10. Reduce heat, and season with 1 teaspoon garam masala and cayenne. 
+11. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. 
+12. Stir cooked chicken into sauce.

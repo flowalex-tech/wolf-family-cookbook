@@ -1,7 +1,8 @@
----
-title: Spinach Dip
-date: 2019-11-10
----
++++
+title = "Spinach Dip"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## Ingredients:
 

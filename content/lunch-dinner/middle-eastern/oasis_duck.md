@@ -1,8 +1,9 @@
----
-title: Oasis Duck
-date: 2019-11-11
-tags: ["Middle Eastern"]
----
++++
+title = "Oasis Duck"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
++++
 
 ## INGREDIENTS:
 

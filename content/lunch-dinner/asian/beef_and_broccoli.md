@@ -1,8 +1,9 @@
----
-title: Beef and Broccoli
-date: 2019-11-10
-tags: ["Asian"]
----
++++
+title = "Beef & Broccoli"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Asian"]
++++
 
 ## Ingredients:
 

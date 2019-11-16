@@ -1,8 +1,9 @@
----
-title: Spinach With Chickpeas
-date: 2019-11-10
-tags: ["Spanish"]
----
++++
+title = "Spinach With Chickpeas"
+date = "2019-10-11"
+tags = ["Spanish"]
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## Ingredients (serves 6): 
 * 900 g fresh spinach

@@ -1,8 +1,10 @@
----
-title: Salmorejo
-date: 2019-11-10
-tags: ["Spanish"]
----
++++
+title = "Salmorejo"
+date = "2019-10-11"
+tags = ["Spanish"]
+lastmodifierdisplayname = "Alex Wolf"
++++
+
 ## Ingredients (serves 6):
 * 1 kilo ripe red tomatoes
 * 120 g dense stale white bread

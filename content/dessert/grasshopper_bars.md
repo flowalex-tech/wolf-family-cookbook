@@ -1,8 +1,9 @@
----
-title: Grasshopper Bars
-date: 2019-11-10
-tags: ["Bars"]
----
++++
+title = "Grasshopper Bars"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags= ["Bars"]
++++
 
 ## INGREDIENTS:
 

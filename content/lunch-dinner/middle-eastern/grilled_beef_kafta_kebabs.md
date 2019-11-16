@@ -1,28 +1,29 @@
----
-title: Grilled Beef Kafta Kebabs
-date: 2019-11-11
-tags: ["Middle Eastern"]
----
++++
+title = "Grilled Beef Kafta Kebabs"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
++++
 
 ## INGREDIENTS:
 
-1  1/2 pounds Certified Angus Beef ® brand ground beef
-4 garlic cloves, minced
-1/2 of a medium sweet onion 
-2 Tablespoons fresh parsley, finely chopped
-2 Tablespoons fresh mint, finely chopped
-3/4 teaspoon salt
-1/8 teaspoon black pepper
-1 teaspoon cumin
-1 teaspoon coriander
-1 teaspoon cinnamon
-1/2 teaspoon allspice
-1/2 teaspoon cloves
-1/4 teaspoon red pepper flakes {optional}
-1/4 teaspoon cayenne pepper {optional}
-1/2 teaspoon oregano
-1 egg
-1/4 cup breadcrumbs
+* 1  1/2 pounds Certified Angus Beef ® brand ground beef
+* 4 garlic cloves, minced
+* 1/2 of a medium sweet onion 
+* 2 Tablespoons fresh parsley, finely chopped
+* 2 Tablespoons fresh mint, finely chopped
+* 3/4 teaspoon salt
+* 1/8 teaspoon black pepper
+* 1 teaspoon cumin
+* 1 teaspoon coriander
+* 1 teaspoon cinnamon
+* 1/2 teaspoon allspice
+* 1/2 teaspoon cloves
+* 1/4 teaspoon red pepper flakes {optional}
+* 1/4 teaspoon cayenne pepper {optional}
+* 1/2 teaspoon oregano
+* 1 egg
+* 1/4 cup breadcrumbs
 
 ## DIRECTIONS:
 

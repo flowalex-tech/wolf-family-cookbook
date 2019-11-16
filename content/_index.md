@@ -1,14 +1,23 @@
----
-title: HOME
-date: 2019-11-10
----
++++
+title = "Wolf Family Cookbook"
+description = ""
+date = "2019-11-11"
+lastmodifierdisplayname = "Alex Wolf"
++++
 
-## Front Page Content
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+## Contributing:
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+### Adding a recipe: 
+
+Send Alex an email with either the recipie or a link to a recipie that you want added.
+
+### Updating A recipie
+
+If you see an issue with a recipie, or make it and make a teak that makes it better send Alex an email with the changes you want added
+
+### Photos:
+
+If you make a recipie and it looks good, send me a picture so I can add it to the site showing what it looks like.
+
+

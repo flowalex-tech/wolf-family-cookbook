@@ -1,8 +1,10 @@
----
-title: Lemon Ckicken
-date: 2019-11-10
-tags: ["Moroccan", "Middle Eastern"]
----
++++
+title = "Lemon Chicken"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
++++
+
 ## Ingredients:
 
 * 2 (2 pound) Chickens

@@ -1,10 +1,9 @@
----
-title: Spanish
-date: 2019-11-10
----
++++
+title = "Spanish Recipies"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
++++
 
-## Lunch and Dinner Recipies
-
-* [Paella Valenciana](/lunch-dinner/paella_valenciana)
-* [Spinach With Chickpeas](/lunch-dinner/spinach_with_chickpeas)
-* [Salmorejo](/lunch-dinner/salmorejo/)
+### [Paella Valenciana](/lunch-dinner/spanish/paella_valenciana)
+### [Spinach With Chickpeas](/lunch-dinner/spanish/spinach_with_chickpeas)
+### [Salmorejo](/lunch-dinner/spanish/salmorejo/)

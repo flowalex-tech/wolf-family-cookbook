@@ -1,8 +1,9 @@
----
-title: Toots’ Red Devil’s Food Cake
-date: 2019-11-10
-tags: ["Cake"]
----
++++
+title = "Toots’ Red Devil’s Food Cake"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags= ["Cake"]
++++
 
 ## INGREDIENTS:
 

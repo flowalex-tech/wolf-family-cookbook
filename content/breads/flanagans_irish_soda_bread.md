@@ -1,7 +1,9 @@
----
-title: Flanagan’s Irish Soda Bread
-date: 2019-11-10
----
++++
+title = "Flanagan’s Irish Soda Bread"
+date = "2019-11-10"
+tags = ["Irish"]
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## Ingredients:
 

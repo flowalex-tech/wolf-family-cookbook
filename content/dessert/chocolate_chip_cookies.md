@@ -1,8 +1,9 @@
----
-title: Cookies for Testing Chocolate as Chips
-date: 2019-11-10
-tags: ["Cookies"]
----
++++
+title = "Cookies for Testing Chocolate as Chips"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags= ["Cookies"]
++++
 
 ## INGREDIENTS:
 * 2 ¼ cup flour

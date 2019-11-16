@@ -1,8 +1,9 @@
----
-title: Duckling in Walnut-Pomegranate Sauce
-date: 2019-11-11
-tags: ["Middle Eastern"]
----
++++
+title = "Duckling in Walnut-Pomegranate Sauce"
+date = "2019-11-11"
+tags = ["Middle Eastern"]
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## INGREDIENTS:
 

@@ -1,7 +1,8 @@
----
-title: Soft Pretzels
-date: 2019-11-10
----
++++
+title = "Soft Pretzels"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## INGREDIENTS:
 

@@ -8,10 +8,8 @@ canonifyurls  = true
 DefaultContentLanguage = "en"
 theme = "docdock"
 paginate = 20
-pygmentsstyle = "monokai"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-pygmentsOptions = "linenos=table"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
 
 [permalinks]
 posts = "/posts/:year/:month/:title"
@@ -20,15 +18,17 @@ posts = "/posts/:year/:month/:title"
 themeStyle = "original"
 author = "Alex Wolf"
 description = "Recipies for the Wolf family"
-keywords = "recipes"
-favicon_32 = "/images/favicon-32x32.png"
-favicon_16 = "/images/favicon-16x16.png"
-hidecredits = false
-hidecopyright = false
-showNavTitle = false
-custom_css = [
-  "style.css"
-]
+#editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = true # default is false
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
 
 # [menu]
 #   [[menu.main]]

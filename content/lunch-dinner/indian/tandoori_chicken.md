@@ -1,8 +1,9 @@
----
-title: Tandoori Chicken
-date: 2019-11-10
-tags: ["Indian"]
----
++++
+title = "Tandoori Chicken"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Indian"]
++++
 
 ## INGREDIENTS:
 

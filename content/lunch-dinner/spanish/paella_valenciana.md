@@ -1,8 +1,10 @@
----
-title: Paella Valenciana
-date: 2019-11-10
-tags: ["Spanish"]
----
++++
+title = "Paella Valenciana"
+date = "2019-10-11"
+tags = ["Spanish"]
+lastmodifierdisplayname = "Alex Wolf"
++++
+
 ## Ingredients (serves 6): 
 * 450 g round grain rice or bomba rice (approx. 70 g per person)
 * The legs and wings of one chicken

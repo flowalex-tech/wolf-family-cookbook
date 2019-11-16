@@ -1,7 +1,9 @@
----
-title: Tahini Garlic Sauce
-date: 2019-11-11
----
++++
+title = "Tahini Garlic Sauce"
+date = "2019-10-11"
+lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
++++
 
 ## INGREDIENTS:
 
