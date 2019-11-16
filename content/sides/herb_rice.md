@@ -1,8 +1,9 @@
----
-title: Herb Rice
-date: 2019-11-11
-tags: ["Middle Eastern"]
----
++++
+title = "Herb Rice"
+date = "2019-11-11"
+tags = ["Middle Eastern"]
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## INGREDIENTS:
 

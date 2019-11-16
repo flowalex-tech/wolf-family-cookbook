@@ -1,7 +1,9 @@
----
-title: Chevy's Sweet Corn Tomaltio
-date: 2019-11-10
----
++++
+title = "Chevy's Sweet Corn Tomaltio"
+date = "2019-11-11"
+tags = ["Hispanic"]
+lastmodifierdisplayname = "Alex Wolf"
++++
 
 ## Ingredients:
 

@@ -2,7 +2,7 @@
 title = "Chicken Sumac"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern"]
+tags = ["Middle Eastern", "Jordanian"]
 +++
 
 > **NOTE:** Use only sumac purchased at Middle-Eastern grocery stores.  Many species are not related to the spice

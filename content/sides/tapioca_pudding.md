@@ -1,7 +1,8 @@
----
-title: Adeline's Tapioca Pudding Salad
-date: 2019-11-10
----
++++
+title = "Adeline's Tapioca Pudding Salad"
+date = "2019-10-11"
+lastmodifierdisplayname = "Adeline McCarney"
++++
 
 ## Ingredients:
 
