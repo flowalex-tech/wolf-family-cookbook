@@ -1,6 +1,7 @@
 ---
 title: Adeline's White Bread
 date: 2019-11-10
+author: Adeline McCarney
 ---
 
 ## Steps:

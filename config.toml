@@ -6,7 +6,7 @@ title = "Wolf Family Cookbook"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "gochowdown"
+theme = "docdock"
 paginate = 20
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -17,6 +17,7 @@ pygmentsOptions = "linenos=table"
 posts = "/posts/:year/:month/:title"
 
 [params]
+themeStyle = "original"
 author = "Alex Wolf"
 description = "Recipies for the Wolf family"
 keywords = "recipes"
@@ -29,32 +30,32 @@ custom_css = [
   "style.css"
 ]
 
-[menu]
-  [[menu.main]]
-  name = "Home"
-  weight = 1.0
-  url = "/"
-  [[menu.main]]
-  name = "Breakfast"
-  weight = 2.0
-  url = "/breakfast/"
-  [[menu.main]]
-  name = "Lunch & Dinner"
-  weight = 3.0
-  url = "/lunch-dinner/"
-  [[menu.main]]
-  name = "Sides"
-  weight = 4.0
-  url = "/sides/"
-  [[menu.main]]
-  name = "Dips & Sauses"
-  weight = 5.0
-  url = "/dips-sauces/"
-  [[menu.main]]
-  name = "Desserts"
-  weight = 6.0
-  url = "/dessert/"
-[taxonomies]
-category = "category"
-cusine = "cuisine"
-tag = "tags"
+# [menu]
+#   [[menu.main]]
+#   name = "Home"
+#   weight = 1.0
+#   url = "/"
+#   [[menu.main]]
+#   name = "Breakfast"
+#   weight = 2.0
+#   url = "/breakfast/"
+#   [[menu.main]]
+#   name = "Lunch & Dinner"
+#   weight = 3.0
+#   url = "/lunch-dinner/"
+#   [[menu.main]]
+#   name = "Sides"
+#   weight = 4.0
+#   url = "/sides/"
+#   [[menu.main]]
+#   name = "Dips & Sauses"
+#   weight = 5.0
+#   url = "/dips-sauces/"
+#   [[menu.main]]
+#   name = "Desserts"
+#   weight = 6.0
+#   url = "/dessert/"
+# [taxonomies]
+# category = "category"
+# cusine = "cuisine"
+# tag = "tags"

@@ -1,5 +1,5 @@
 ---
-title: Lunch & Dinner
+title: American
 date: 2019-11-10
 ---
 
