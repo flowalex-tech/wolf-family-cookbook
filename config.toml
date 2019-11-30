@@ -1,4 +1,4 @@
-baseurl = "https://wolf-family-cookbook.gitlab.io"
+baseurl = "https://wolf-family-cookbook.gitlab.io/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
