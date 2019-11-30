@@ -9,7 +9,7 @@ tags = ["Middle Eastern"]
 
 ## Ingredients:
 
-* Arabic Pocket bread dough (see recipe in bread section)
+* [Arabic Pocket bread dough]({{< ref "/breads/arabic_pocket_bread.md" >}})
 * 2 pounds coarsely ground lean lamb
 * 1 large onion grated
 * Juice of 2 lemons (6 tablespoons)

@@ -5,7 +5,7 @@ lastmodifierdisplayname = "Alex Wolf"
 tags = ["Ethiopian", "African"]
 +++
 
-> This goes well with Injera (recipe in bread section)
+> This goes well with [Injera]({{< ref "/breads/injera.md" >}})
 
 ## Ingredients:
 
