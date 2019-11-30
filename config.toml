@@ -3,11 +3,11 @@ contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
 title = "Wolf Family Cookbook"
-canonifyurls  = true
+canonifyurls  = false
 
 DefaultContentLanguage = "en"
 theme = "docdock"
-paginate = 20
+paginate = 50
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
