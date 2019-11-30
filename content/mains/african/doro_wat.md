@@ -5,8 +5,6 @@ lastmodifierdisplayname = "Alex Wolf"
 tags = ["Ethiopian", "African"]
 +++
 
-> This goes well with [Injera]({{< ref "/breads/injera.md" >}})
-
 ## Ingredients:
 
 * 3 pounds  boneless chicken breasts and thighs, cut into 1-inch cubes
