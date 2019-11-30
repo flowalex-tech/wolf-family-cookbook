@@ -36,7 +36,7 @@ tags = ["Middle Eastern"]
 * 1/4 tsp sumac
 * Salt and Pepper to taste
 
-[Directions]
+[Directions](#directions)
 
 ### Cheese Filling
 
