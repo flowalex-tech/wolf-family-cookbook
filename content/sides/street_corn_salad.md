@@ -5,6 +5,8 @@ lastmodifierdisplayname = "Alex Wolf"
 tags = ["Hispanic"]
 +++
 
+{{<figure src="/images/Healthy-Mexican-Street-Corn-Salad-3.jpg">}}
+
 ## Ingredients:
 
 * 6 ears fresh corn

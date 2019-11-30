@@ -5,6 +5,8 @@ lastmodifierdisplayname = "Alex Wolf"
 tags = ["Bars"]
 +++
 
+{{<figure src="/images/Chocolate-Chip-Tart.jpg">}}
+
 ## Ingredients:
 
 ### Chocolate Chip Cookie Base:
