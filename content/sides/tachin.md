@@ -2,7 +2,7 @@
 title = "Tachin"
 date = "2019-11-30"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern", "Lebanese]
+tags = ["Middle Eastern", "Lebanese"]
 +++
 
 {{<figure src="/images/crunchy-baked-saffron-rice-with-barberries.jpg">}}

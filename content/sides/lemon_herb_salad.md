@@ -2,7 +2,7 @@
 title = "Lemon Herb Salad"
 date = "2019-11-30"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern", "Lebanese]
+tags = ["Middle Eastern", "Lebanese"]
 +++
 
 {{<figure src="/images/lemony-herb-salad.jpg">}}
