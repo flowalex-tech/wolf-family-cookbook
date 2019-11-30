@@ -1,11 +1,11 @@
 +++
 title = "Doro Wat"
-date = "2019-30-11"
+date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
 tags = ["Ethiopian", "African"]
 +++
 
-> This goes well with [Injera]({{< ref "/breads/injera.md" >}})
+> This goes well with Injera (recipe in bread section)
 
 ## Ingredients:
 

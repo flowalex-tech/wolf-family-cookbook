@@ -1,6 +1,6 @@
 +++
 title = "Injera"
-date = "2019-30-11"
+date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
 tags = ["Ethiopian", "African"]
 +++

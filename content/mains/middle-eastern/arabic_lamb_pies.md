@@ -1,15 +1,15 @@
 +++
 title = "Arabic Lamb Pies"
-date = "2019-30-11"
-tags = ["Middle Eastern"]
+date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["Middle Eastern"]
 +++
 
 > Basic Arabic pocket bread dough is used to make pies of many shapes and with a variety of fillings
 
 ## Ingredients:
 
-* [Arabic Pocket bread dough]({{< ref "/breads/arabic_pocket_bread.md" >}})
+* Arabic Pocket bread dough (see recipe in bread section)
 * 2 pounds coarsely ground lean lamb
 * 1 large onion grated
 * Juice of 2 lemons (6 tablespoons)

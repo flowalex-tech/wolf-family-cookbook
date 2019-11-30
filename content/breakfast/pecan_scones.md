@@ -1,5 +1,5 @@
 +++
-title = "Ina Gartens Chocolate Pecan Scones"
+title = "Ina Garten's Chocolate Pecan Scones"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
 +++

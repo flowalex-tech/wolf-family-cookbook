@@ -1,5 +1,5 @@
 +++
-title = "Berbere"
+title = "Mexican Street Corn Salad"
 date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
 tags = ["Hispanic"]
