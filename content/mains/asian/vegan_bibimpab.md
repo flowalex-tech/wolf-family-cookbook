@@ -2,7 +2,7 @@
 title = "Vegan Bibimbap"
 date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Asian", "Vegan"]
+tags = ["Vegan", "Korean"]
 +++
 
 ## INGREDIENTS
