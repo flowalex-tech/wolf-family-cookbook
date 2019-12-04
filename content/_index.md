@@ -5,6 +5,9 @@ date = "2019-11-11"
 lastmodifierdisplayname = "Alex Wolf"
 +++
 
+## Cook Book Sections
+
+{{%children style="h2" %}}
 
 ## Contributing:
 
@@ -19,5 +22,3 @@ If you see an issue with a recipie, or make it and make a teak that makes it bet
 ### Photos:
 
 If you make a recipie and it looks good, send me a picture so I can add it to the site showing what it looks like.
-
-
