@@ -21,7 +21,7 @@ lastmodifierdisplayname = "Alex Wolf"
 4. Cook over moderate heat, stirring constantly until the sugar is dissolved and the mixture comes to a boil
 5. Continue cooking until mixture reaches soft-crack stage (275 degrees on a candy thermometer)
 6. Stir in the cashew nuts
-7. Continue cooking stirring frequently, until the mixture reaches the hard crack stage
+7. Continue cooking stirring frequently, until the mixture reaches the hard crack stage (300 degrees)
 8. Remove from the heat and vigorously stir in the baking soda
 9. Immediately pour half the candy onto each prepared cookie sheet
 10. Using two forks pull the candy into rectangles about 1/2 inch thick
