@@ -7,7 +7,7 @@ lastmodifierdisplayname = "Alex Wolf"
 
 ## Cook Book Sections
 
-{{%children style="h2" %}}
+{{%children style="h3" %}}
 
 ## Contributing:
 
