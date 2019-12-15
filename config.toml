@@ -6,7 +6,7 @@ title = "Wolf Family Cookbook"
 canonifyurls  = false
 
 DefaultContentLanguage = "en"
-theme = "hugo-theme-learn"
+theme = [ "hugo-theme-learn"    ]
 paginate = 50
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
