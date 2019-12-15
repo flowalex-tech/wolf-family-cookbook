@@ -8,7 +8,7 @@ lastmodifierdisplayname = "Alex Wolf"
 
 * 1/3 cups butter
 * 2 cups sugar
-* 2 cups light cream
+* 2 cups light cream (or heavy cream DO NOT use half and half)
 * 1 cup corn syrup
 * 1/2 teaspoon salt
 * 1 teaspoon vanilla extract
