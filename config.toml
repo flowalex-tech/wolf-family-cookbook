@@ -20,7 +20,7 @@ author = "Alex Wolf"
 description = "Recipies for the Wolf family"
 dateformat = "Jan 2, 2006"
 showVisitedLinks = false # default is false
-themeVariant = "gold" # choose theme variant "green", "gold" , "gray", "blue" (default)
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
 disableSearch = false # default is false
