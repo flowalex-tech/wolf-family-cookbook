@@ -8,6 +8,7 @@ lastmodifierdisplayname = "Alex Wolf"
 
 * 1 1/4 cups butter
 * 1 cup sugar
+* 1/3 cup brown sugar
 * 1/3 cup water
 * 1 tablespoon dark molasses
 * 1/4 teaspoon salt
