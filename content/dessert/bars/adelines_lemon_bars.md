@@ -2,7 +2,7 @@
 title = "Adeline's Lemon Bars"
 date = "2019-10-11"
 lastmodifierdisplayname = "Adeline McCarney"
-tags= ["Bars"]
+tags= ["Bars", "Adeline's"]
 +++
 
 ## Ingredients:

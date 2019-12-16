@@ -1,7 +1,7 @@
 +++
 title = "Adeline's Pumpkin Pie"
 date = "2019-11-16"
-tags = ["Pie"]
+tags = ["Pie", "Adeline's"]
 lastmodifierdisplayname = "Adeline McCarney"
 +++
 

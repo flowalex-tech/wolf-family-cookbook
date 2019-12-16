@@ -2,6 +2,7 @@
 title = "Adeline's White Bread"
 date = "2019-11-10"
 lastmodifierdisplayname = "Adeline McCarney"
+tags= ["Adeline's"]
 +++
 
 ## Steps:
