@@ -11,7 +11,7 @@ lastmodifierdisplayname = "Arlene McCarney"
 * 2 quarts cranberry juice cocktail
 * 1 can of orange juice (12 oz)
 * 1 1/2 cups vodka
-* 1.2 cup rum
+* 1 1/2 cup rum
 
 ## Directions
 
