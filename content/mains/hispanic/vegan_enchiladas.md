@@ -1,6 +1,6 @@
 +++
 title = "Vegan Enchiladas"
-date = "2019-29-11"
+date = "2020-01-04"
 lastmodifierdisplayname = "Rachel Wolf"
 tags = ["Vegan", "Hispanic"]
 +++
