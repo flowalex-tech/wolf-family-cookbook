@@ -1,6 +1,7 @@
 +++
 title = "Jeanne's Hot Dish"
 date = "2019-12-26"
+tags = ["Hot Dish"]
 lastmodifierdisplayname = "Jeanne Lorensen"
 +++
 
