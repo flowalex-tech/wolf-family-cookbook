@@ -35,6 +35,10 @@ lastmodifierdisplayname = "Alex Wolf"
 13. Stir in lemon juice
 14. Taste season as desired
 
-> Note: If you like you can roast the garlic 1-3 days ahead of time and store it in the fridge until you're ready to blend
+{{% notice tip %}}
+If you like you can roast the garlic 1-3 days ahead of time and store it in the fridge until you're ready to blend
+{{% /notice %}}
 
-> Makes 4 Servings
+{{% notice note %}}
+Makes 4 Servings
+{{% /notice %}}

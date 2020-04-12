@@ -24,7 +24,9 @@ lastmodifierdisplayname = "Alex Wolf"
 * 2 tbsp sesame seeds, toasted
 * 1 tbsp poppy seeds (optional)
 
-> Can be substituted with a pomegranate vinaigrette 
+{{% notice tip %}}
+Can be substituted with a pomegranate vinaigrette 
+{{% /notice %}}
 
 ## Directions:
 
@@ -39,4 +41,6 @@ lastmodifierdisplayname = "Alex Wolf"
 2. Drizzle dressing over salad and toss
 3. Serve immediately after adding dressing
 
-> Makes 8 servings
+{{% notice note %}}
+Makes 8 servings
+{{% /notice %}}

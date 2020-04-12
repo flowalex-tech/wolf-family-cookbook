@@ -27,4 +27,6 @@ tags= ["Cake"]
 6. Bake in creased cup cake pans in moderate oven
 7. Remove from tins and roll in powdered sugar
 
-> Makes 2 dozen cakes
+{{% notice note %}}
+Makes 2 dozen cakes
+{{% /notice %}}

@@ -49,4 +49,6 @@ tags = ["Middle Eastern", "Egyptian"]
 22. Bake 2 hours, basting fequently with pan juices
 23. Add 1/2 cup water to pan juices as they evaporate
 
-> Makes 4 servrings
+{{% notice note %}}
+Makes 4 servrings
+{{% /notice %}}

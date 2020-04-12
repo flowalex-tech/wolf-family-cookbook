@@ -41,4 +41,6 @@ tags = ["Middle Eastern", "Moroccan"]
 15. Heat through
 16. Garnish with lemon wedges and parsley
 
-> Makes 6-8 servings
+{{% notice note %}}
+Makes 6-8 Servings
+{{% /notice %}}

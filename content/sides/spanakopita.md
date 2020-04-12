@@ -53,4 +53,6 @@ tags = ["Greek"]
 26. Let stand for 20 minutes to set before cutting
 27. Cut into 3 inch diamond or square shapes
 
-> Makes 12 pieces
+{{% notice note %}}
+Makes 12 pieces
+{{% /notice %}}

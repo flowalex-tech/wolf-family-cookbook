@@ -34,4 +34,6 @@ tags = ["Vegan"]
 9. Pour nutritional yeast sauce over pasta and stir gently to coat.
 10. Serve immediately and top with the garlic-herb breadcrumbs.
 
->For a heartier dish, try adding cooked sausage, peas or broccoli. You can also adjust spices in the nutritional yeast sauce. For a spicy sauce, add cayenne pepper and chipotle. For an herb sauce, try basil, oregano and parsley.
+{{% notice note %}}
+For a heartier dish, try adding cooked sausage, peas or broccoli. You can also adjust spices in the nutritional yeast sauce. For a spicy sauce, add cayenne pepper and chipotle. For an herb sauce, try basil, oregano and parsley.
+{{% /notice %}}

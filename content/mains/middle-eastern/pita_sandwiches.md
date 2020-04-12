@@ -34,7 +34,9 @@ tags = ["Greek"]
 12. Sprinkle with paprika
 13. Serve immediately
 
-> Makes 6 sandwiches
+{{% notice note %}}
+Makes 6 sandwiches
+{{% /notice %}}
 
 ## Variations:
 

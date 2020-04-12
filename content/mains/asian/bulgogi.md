@@ -25,15 +25,29 @@ tags = ["Korean", "Vegan"]
 2. Preheat an outdoor grill for high heat, and lightly oil the grate.
 3. Quickly grill beef on hot grill until slightly charred and cooked through, 1 to 2 minutes per side.
 
-## Notes
-> This can be sauteed in a skillet over medium high heat. 
+{{% notice note %}}
+This can be sauteed in a skillet over medium high heat. 
+{{% /notice %}}
 
->FOR 2 POUNDS OF MEAT (Try)
-> * 6 Tablespoons soy sauce
-> * 3 tablespoons brown sugar
-> * 1/3 cup green onion
-> * 2 Tablespoons plus 1 teaspoon garlic
-> * 2 Tablespoons plus 1 teaspoon sesame seeds
-> * 2 Tablespoons plus 1 teaspoon sesame oil
-> * 3/4 teaspoon black pepper
-> * 1 1/4 teaspoons sriracha
+{{% notice info %}}
+FOR 2 POUNDS OF MEAT (Try)
+
+* 6 Tablespoons soy sauce
+* 3 tablespoons brown sugar
+* 1/3 cup green onion
+* 2 Tablespoons plus 1 teaspoon garlic
+* 2 Tablespoons plus 1 teaspoon sesame seeds
+* 2 Tablespoons plus 1 teaspoon sesame oil
+* 3/4 teaspoon black pepper
+* 1 1/4 teaspoons sriracha
+{{% /notice %}}
+
+
+
+
+
+
+
+
+
+

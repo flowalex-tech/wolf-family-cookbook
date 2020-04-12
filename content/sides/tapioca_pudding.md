@@ -24,4 +24,6 @@ tags= ["Adeline's"]
 7. Fold in the whipped cream
 8. Refrigate
 
-> Two boxes of tapioca pudding may be used with enough thawed orange juice concentrate to make the 2 cups of liquid.
+{{% notice info %}}
+Two boxes of tapioca pudding may be used with enough thawed orange juice concentrate to make the 2 cups of liquid.
+{{% /notice %}}

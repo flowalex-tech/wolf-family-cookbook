@@ -32,4 +32,6 @@ tags= ["Cake"]
 1. Refrigerate for 20 minutes
 1. Top with cool whip and sprinkle with nuts
 
-> Vanilla Pudding is good with sliced bananas
+{{% notice tip %}}
+Vanilla Pudding is good with sliced bananas
+{{% /notice %}}

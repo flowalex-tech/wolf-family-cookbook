@@ -86,4 +86,6 @@ lastmodifierdisplayname = "Alex Wolf"
 1. If you like, decorate the chocolate or vanilla doughnuts with sprinkles.  
 1. Serve immediately.
 
-> Notes: When you fry doughnuts make sure you maintain the correct oil temperature throughout the process.  Generally speaking, doughnuts taste best served immediately after they've emerged from the fryer ( and taken a quick dip in sugar or chocolate or vanilla.  However if they don't disappear quickly when served take day old doughnuts and chop them into big coarse crumbs, toast them lightly, and add them to vanilla ice cream as a mix in (if you are making it from scratch) or a topping (if you are serving store bought). Doughnuts also work wonders (very rich wonders) when used as the base of a bread pudding.
+{{% notice note %}}
+When you fry doughnuts make sure you maintain the correct oil temperature throughout the process.  Generally speaking, doughnuts taste best served immediately after they've emerged from the fryer ( and taken a quick dip in sugar or chocolate or vanilla.  However if they don't disappear quickly when served take day old doughnuts and chop them into big coarse crumbs, toast them lightly, and add them to vanilla ice cream as a mix in (if you are making it from scratch) or a topping (if you are serving store bought). Doughnuts also work wonders (very rich wonders) when used as the base of a bread pudding.
+{{% /notice %}}

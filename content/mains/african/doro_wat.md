@@ -4,8 +4,9 @@ date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
 tags = ["Ethiopian", "African"]
 +++
-
-> This goes well with [Injera]({{< ref "/breads/injera.md" >}})
+{{% notice tip %}}
+This goes well with [Injera]({{< ref "/breads/injera.md" >}})
+{{% /notice %}}
 
 ## Ingredients:
 

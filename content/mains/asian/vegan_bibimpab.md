@@ -45,8 +45,17 @@ tags = ["Vegan", "Korean"]
 4. Cook the spinach: Heat 1 tsp avocado oil in the same pan on medium-high heat. Add the green onion and tofu and cook for 2-3 minutes until the spinach has wilted down. 
 5. Make the bowls: Add some rice to the bottom of your bowls, then top with the crispy tofu, sauteed spinach, bean sprouts, shredded carrots, cucumber and pickled cabbage. Top it off with the sauce and enjoy!
 
-## NOTES
-> Use short-grain rice for these bowls rather than long-grain rice. I recommend using Jasmine rice. 
-> Prepare the pickled cabbage the night before for best results and to save you time when making the bowls. You can also substitute the pickled cabbage with some store-bought kimchi.
->Firm tofu works best for this recipe to make your tofu nice and crispy.
->Store any leftover ingredients separately in the fridge so you can heat up the rice and tofu when you want to enjoy another bowl. 
+{{% notice note %}}
+Use short-grain rice for these bowls rather than long-grain rice. I recommend using Jasmine rice. 
+
+Prepare the pickled cabbage the night before for best results and to save you time when making the bowls. You can also substitute the pickled cabbage with some store-bought kimchi.
+
+Firm tofu works best for this recipe to make your tofu nice and crispy.
+
+Store any leftover ingredients separately in the fridge so you can heat up the rice and tofu when you want to enjoy another bowl. 
+{{% /notice %}}
+
+
+
+
+

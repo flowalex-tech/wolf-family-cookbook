@@ -28,8 +28,10 @@ tags = ["African", "Ethiopian"]
 2. Grind the cooled spices in a spice or coffee grinder. Add all remaining ground spices and salt and grind everything together.
 3. Store in an airtight container in a dark place.
 
-## Notes
->If you like extreme heat, leave a few of the seeds in. It will still be very spicy even without the seeds.
+{{% notice tip %}}
+If you like extreme heat, leave a few of the seeds in. It will still be very spicy even without the seeds.
+{{% /notice %}}
 
-
-> Makes 6 tablespoons
+{{% notice note %}}
+Makes 6 tablespoons
+{{% /notice %}}

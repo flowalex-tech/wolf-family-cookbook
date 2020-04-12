@@ -34,4 +34,6 @@ lastmodifierdisplayname = "Alex Wolf"
 #### Garlic Sauce with Almonds:
 * Add 1/4 cup ground unblanched almonds to mixture. Process until blended.  If sauce is too thick, add more water.
 
-> Makes about 2 cups
+{{% notice note %}}
+Makes about 2 cups
+{{% /notice %}}

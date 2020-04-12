@@ -24,4 +24,6 @@ tags = ["Thai"]
 Transfer into a bowl and cover, allow sauce to sit at room temperature for 1 to 2 hours, adjust ingredients to taste. 
 3. Garnish with a few cilantro leaves or fresh green onions 
 
-> Store in a jar refrigerated for up to 2-3 weeks.
+{{% notice note %}}
+Store in a jar refrigerated for up to 2-3 weeks.
+{{% /notice %}}

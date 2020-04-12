@@ -95,4 +95,7 @@ tags = ["Middle Eastern"]
 2. Mix well
 
 [Directions](#directions)
-> Makes 20 triangles
+
+{{% notice note %}}
+Makes 20 triangles
+{{% /notice %}}

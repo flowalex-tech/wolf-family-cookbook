@@ -58,4 +58,6 @@ tags = ["Cookies"]
 * Pour the hot cream over the white chocolate and let stand for 30 seconds, then whisk until smooth. 
 * Stir in the peppermint extract. Fill the thumbprint cookies with the white chocolate ganache and refrigerate them until set, about 30 minutes. 
 
-> Note: These cookies taste great at room temperature or directly from the refrigerator. They can be stored in an airtight container in the refrigerator for up to 3 days.
+{{% notice note %}}
+These cookies taste great at room temperature or directly from the refrigerator. They can be stored in an airtight container in the refrigerator for up to 3 days.
+{{% /notice %}}

@@ -46,4 +46,6 @@ Preheat oven to 350 degrees.
 Remove plastic wrap from pan and bake for 30 minutes.
 Let cool 5 minutes in pan and then invert onto serving dish. Serve warm.
 
-> NOTE: Dough can be made a day ahead and stored in refrigerator until ready to bake. To do this, after dipping dough balls into butter and cinnamon sugar, cover pan with plastic wrap and store in the refrigerator. Remove pan and let it come to room temperature before baking.
+{{% notice note %}}
+Dough can be made a day ahead and stored in refrigerator until ready to bake. To do this, after dipping dough balls into butter and cinnamon sugar, cover pan with plastic wrap and store in the refrigerator. Remove pan and let it come to room temperature before baking.
+{{% /notice %}}

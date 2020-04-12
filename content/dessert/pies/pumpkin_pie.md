@@ -26,4 +26,6 @@ lastmodifierdisplayname = "Adeline McCarney"
 4. Bake in a 450 Degree oven for 10 minutes
 5. Reduce heat and bake at 350 degrees for about 45 minutes or until a silver knife inserted near the center of the pie comes out clean
 
-> Makes a 9 inch pie
+{{% notice note %}}
+Makes a 9 inch pie
+{{% /notice %}}

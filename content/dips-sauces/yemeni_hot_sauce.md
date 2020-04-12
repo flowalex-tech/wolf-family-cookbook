@@ -21,4 +21,6 @@ lastmodifierdisplayname = "Alex Wolf"
 4. Add remaining ingredients
 5. Process until barely smooth
 
-> Makes about 2 cups
+{{% notice note %}}
+Makes about 2 cups
+{{% /notice %}}

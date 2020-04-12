@@ -16,4 +16,6 @@ lastmodifierdisplayname = "Jeanne Lorensen"
 * Bake for 45 minutes and turn the oven off
 * Add layer of onion rings
 
->Serve in 5-10 minutes
+{{% notice info %}}
+Serve in 5-10 minutes
+{{% /notice %}}

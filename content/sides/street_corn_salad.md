@@ -26,7 +26,9 @@ tags = ["Hispanic"]
 2. Grill jalapeno until skin is charred and black in some areas. Chop jalapeno removing seeds and ribs for less heat.
 3. In a large bowl combine corn, chopped jalapeno, red onion, cilantro, cotija cheese, olive oil, lime juice, salt, pepper, and cayenne. Gently toss. Serve with a few extra lime wedges and an extra sprinkle of cheese and cilantro.
 
-> Will keep for up to 5 days in fridge. 
+{{% notice note %}}
+Will keep for up to 5 days in fridge. 
+{{% /notice %}}
 
 ## Notes
 * If you do not have an outdoor grill to get all of the charred smokey grill flavors indoors there are a few ways you can do this:

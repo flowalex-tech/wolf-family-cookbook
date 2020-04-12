@@ -46,4 +46,6 @@ tags = ["Middle Eastern"]
 18. Cover and let simmer for 30 minutes or until rice is tender.
 19. Garnish with raisins and almonds
 
-> Makes 6-8 servings
+{{% notice info %}}
+Makes 6-8 Servings
+{{% /notice %}}
