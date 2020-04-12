@@ -5,7 +5,9 @@ lastmodifierdisplayname = "Alex Wolf"
 tags = ["Middle Eastern", "Jordanian"]
 +++
 
-> **NOTE:** Use only sumac purchased at Middle-Eastern grocery stores.  Many species are not related to the spice
+{{% notice warning %}}
+Use only sumac purchased at Middle-Eastern grocery stores.  Many species are not related to the spice
+{{% /notice %}}
 
 ## INGREDIENTS:
 
@@ -48,4 +50,6 @@ tags = ["Middle Eastern", "Jordanian"]
 * Cut chicken into small pieces. Place on bread. Spread onions over chicken. Top with pine nuts.
 * Bread made with refrigerator biscuts, crescent-roll dough or thawed frozen dough may be used in place of pocket bread.  Pat dough for biscuts or rolls or thawed dough into 6-8 inch circles. Bake at 350 Degrees for 10 minutes to set. Use as directed above
 
-> Makes 4 servings
+{{% notice info %}}
+Makes 4 Servings
+{{% /notice %}}

@@ -34,4 +34,6 @@ tags = ["Middle Eastern"]
 5. Put the kebabs on the grill and grill them over the medium-high heat for about 4-5 minutes on one side, flip and grill another 4 to 5 minutes.
 6. Serve the kebabs with your favorite pita, hummus, tabbouleh and a drizzle of the tahini garlic sauce.
 
-> **NOTE:** If you are using wooden skewers you will want to soak them for an hour before you grill. If you are using metal skewers set about 6-8 aside depending on how big you want to make your kebabs.
+{{% notice tip %}}
+If you are using wooden skewers you will want to soak them for an hour before you grill. If you are using metal skewers set about 6-8 aside depending on how big you want to make your kebabs.
+{{% /notice %}}

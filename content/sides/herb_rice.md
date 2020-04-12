@@ -35,4 +35,6 @@ lastmodifierdisplayname = "Alex Wolf"
 17. Fasten securely with a rubberband
 18. Simmert over very low heat for 25-30 minutes or until rice is soft and fluffy
 
-> Makes 6 servings
+{{% notice note %}}
+Makes 6 servings
+{{% /notice %}}

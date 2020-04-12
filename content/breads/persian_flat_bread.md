@@ -5,7 +5,10 @@ tags = ["Middle Eastern","Iranian"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 
-> Ridges in the bread are typically Iranian. Change the pattern as directed below for Armenian Peda Bread
+{{% notice note %}}
+Ridges in the bread are typically Iranian. Change the pattern as directed below for Armenian Peda Bread
+{{% /notice %}}
+
 
 ## Ingredients:
 
@@ -52,4 +55,6 @@ lastmodifierdisplayname = "Alex Wolf"
 29. Remove from baking sheets and cook on racks
 30. Serve warm or wrap cooled bread in plastic wrap and refigerate
 
-> Makes 4 flat breads
+{{% notice info %}}
+Makes 4 flat breads
+{{% /notice %}}

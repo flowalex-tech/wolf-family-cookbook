@@ -40,4 +40,6 @@ lastmodifierdisplayname = "Alex Wolf"
 18. Spoon sauce over duckling
 19. Garnish with pomegranate seeds and walnut halves
 
-> Makes 3-4 servings
+{{% notice info %}}
+Makes 3-4 Servings
+{{% /notice %}}

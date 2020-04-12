@@ -43,4 +43,6 @@ lastmodifierdisplayname = "Alex Wolf"
 19. Place hot bread immediately in a plastic bag
 20. Server warm or cool in bag and refrigerate
 
-> Makes 12-24 pocket breads
+{{% notice info %}}
+Makes 12-24 pocket breads
+{{% /notice %}}

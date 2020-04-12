@@ -27,6 +27,13 @@ tags= ["Cake"]
 6. Pour into two deep 9 inch layer pans (1 1/2 inches deep) which have been rubbed with crisco and lined with heavy waxed paper
 7. Bake in moderate heat oven (360 degrees) for 35 to 40 minutes
 
-> If desired bake in cup cake pans.
-> Makes about 30 cupcakes
-> Bake at 385 degrees for about 20 minutes
+
+{{% notice info %}}
+Bake at 385 degrees for about 20 minutes
+{{% /notice %}}
+
+{{% notice note %}}
+If desired bake in cup cake pans.
+
+Makes about 30 cupcakes
+{{% /notice %}}

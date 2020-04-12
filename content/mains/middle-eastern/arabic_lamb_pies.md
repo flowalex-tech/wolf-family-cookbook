@@ -35,4 +35,6 @@ tags = ["Middle Eastern"]
     * Pies become darker brown after brushing with oil 
 13. Immediately remove pies from baking sheets
 
-> Makes 24 pies
+{{% notice info %}}
+Makes 24 pies
+{{% /notice %}}

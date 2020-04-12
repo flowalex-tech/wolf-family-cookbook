@@ -28,4 +28,6 @@ tags = ["Vegan", "Hispanic"]
 8. Pour the remaining sauce over the tortillas
 9. Bake uncovered for 20 minutes
 
-> Serves 4
+{{% notice info %}}
+Serves 4
+{{% /notice %}}

@@ -29,4 +29,6 @@ tags= ["Cookies"]
 5. Cut out shapes with cookie cutters and place on greased cookie sheet
 6. Bake in a 350 degree oven until hardend but be careful to not over bake
 
-> This dough will keep in the fridge for days
+{{% notice note %}}
+This dough will keep in the fridge for days
+{{% /notice %}}

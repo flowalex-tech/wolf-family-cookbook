@@ -50,4 +50,6 @@ Omit meat. Substitute 3 pounds of chicken pieces. Cook 20 minutes before adding 
 
 Omit meat. Add potatoes after adding tomato-paste mixute and bringing to a boil. Cook 15 minutes. Add 2 pounds sliced summer squash, zucchini or green beans, or 1 medium, cubed eggplant, 2 cups green peas or 2 (10 ounce) packages drained, thawed, frozen okra.  Other vegetables may be subsituted.
 
-> Makes 6 Servings
+{{% notice info %}}
+Makes 6 Servings
+{{% /notice %}}

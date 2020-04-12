@@ -19,4 +19,6 @@ lastmodifierdisplayname = "Arlene McCarney"
 2. Add cranberry juice, orange juice, vodka, and rum to the sugar water mixture
 3. Freeze, stirring occasionally
 
-> To Serve: Fill glass half full with mixture.  Fill the rest of the glass with 7-up
+{{% notice note %}}
+To Serve: Fill glass half full with mixture.  Fill the rest of the glass with 7-up
+{{% /notice %}}

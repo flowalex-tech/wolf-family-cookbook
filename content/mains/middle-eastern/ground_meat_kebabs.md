@@ -29,4 +29,7 @@ lastmodifierdisplayname = "Alex Wolf"
     * or over hot coals
 7. Turn frequently to brown evenly until meat is done as desired (about 10-15 minutes)
 
-> Makes 8-10 Servings
+
+{{% notice note %}}
+Makes 8-10 Servings
+{{% /notice %}}

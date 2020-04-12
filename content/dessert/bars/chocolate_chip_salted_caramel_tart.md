@@ -68,7 +68,10 @@ tags = ["Bars"]
 2. Add corn syrup and stir to combine.  Allow mixture to cool a few minutes to thicken, then pour chocolate over the cooled caramel layer.  Spread with an offset spatula, as needed.  Cool 5 minutes, then top with good quality sea salt, such as fleur de sel.
 3. Cool fully (in the fridge) before slicing.  Slice in thin slices, this is very rich!  Enjoy!
 
-> The caramel filling can be made a day or two in advance (store in an airtight jar in the fridge).
+{{% notice tip %}}
+The caramel filling can be made a day or two in advance (store in an airtight jar in the fridge).
+{{% /notice %}}
 
-> The caramel filling recipe will make more caramel than you need. Store the remainder in a jar in the fridge and use for topping any number of desserts.
-
+{{% notice info %}}
+The caramel filling recipe will make more caramel than you need. Store the remainder in a jar in the fridge and use for topping any number of desserts.
+{{% /notice %}}

@@ -33,6 +33,6 @@ lastmodifierdisplayname = "Alex Wolf"
 5. Stir in half the cheese and 1 cup crushed tortilla chips. If too much of the broth has evaporated, stir in an additional cup of broth or water. 
 6. Ladle into bowls and top with the remaining cheese, fresh cilantro, fresh avocado, and more tortilla chip pieces.
 
-### Notes
-
-> This is a great recipe to use up leftover chicken or a rotisserie chicken. Just add it in at the very end to warm it up.
+{{% notice tip %}}
+This is a great recipe to use up leftover chicken or a rotisserie chicken. Just add it in at the very end to warm it up.
+{{% /notice %}}

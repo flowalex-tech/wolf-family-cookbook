@@ -16,4 +16,6 @@ lastmodifierdisplayname = "Alex Wolf"
 * Shake well
 * Serve
 
-> NOTE: You can substitute half and half for the ice cream but if you do add some ice too
+{{% notice note %}}
+You can substitute half and half for the ice cream but if you do add some ice too
+{{% /notice %}}

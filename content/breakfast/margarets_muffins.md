@@ -17,6 +17,10 @@ lastmodifierdisplayname = "Margaret McCarney"
 
 Mix together and bake at 400 degrees for 20-25 minutes
 
-> Blueberries, cranberries, apples, or nuts may be added
+{{% notice tip %}}
+Blueberries, cranberries, apples, or nuts may be added
+{{% /notice %}}
 
-> Betty Crocker cookbook uses 1/2 teaspoon salt and 1/2 cup milk
+{{% notice info %}}
+Betty Crocker cookbook uses 1/2 teaspoon salt and 1/2 cup milk
+{{% /notice %}}

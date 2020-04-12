@@ -19,7 +19,9 @@ lastmodifierdisplayname = "Alex Wolf"
 
 ## Directions:
 
-> Crescent rolls can be substituted with chips
+{{% notice tip %}}
+Crescent rolls can be substituted with chips
+{{% /notice %}}
 
 1. Place crescent rolls that have been spread in a 9 X 13 inch pan
 2. Bake for 5 minutes at 350 degrees
@@ -30,4 +32,7 @@ lastmodifierdisplayname = "Alex Wolf"
 7. Place corn chip crumbs over cheese
 8. Bake at 350 degrees for 25 minutes
 
-> Serve with taco sauce or sour cream
+
+{{% notice note %}}
+A notice disclaimer
+{{% /notice %}}

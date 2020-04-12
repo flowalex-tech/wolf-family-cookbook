@@ -31,4 +31,6 @@ lastmodifierdisplayname = "Alex Wolf"
 9. Spread to within 1/2 inch of edge of dough
 10. Bake 20-25 minutes or until golden
 
-> Makes 6 pizzas
+{{% notice note %}}
+Makes 6 pizzas
+{{% /notice %}}

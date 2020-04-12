@@ -77,4 +77,6 @@ tags = ["Tart"]
 1. To serve gently push up on the tart bottom to remove it from the pan. Top the tart with orange whipped cream.
 1. The tart tastes best if eaten within 24 hours but can be kept, covered, in the refrigerator, for up to 2 days.
 
-> Note: If you want to add a little more sweetness to your tart (and to keep the crust from getting soggy) brush the bottom of the tart shell with 2 ounces of melted white chocolate.  Let the chocolate set for about 5 minutes in the refrigerator, then pour the curd over it.
+{{% notice note %}}
+If you want to add a little more sweetness to your tart (and to keep the crust from getting soggy) brush the bottom of the tart shell with 2 ounces of melted white chocolate.  Let the chocolate set for about 5 minutes in the refrigerator, then pour the curd over it.
+{{% /notice %}}
