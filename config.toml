@@ -31,7 +31,7 @@ enableGitInfo = true
 editURL = "https://gitlab.com/wolf-family-cookbook/wolf-family-cookbook.gitlab.io/tree/master/content/"
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Gitlab repo"
+name = "<i class='fab fa-fw fa-gitlab'></i> Gitlab repo"
 identifier = "ds"
 url = "https://gitlab.com/wolf-family-cookbook/wolf-family-cookbook.gitlab.io"
 weight = 100
