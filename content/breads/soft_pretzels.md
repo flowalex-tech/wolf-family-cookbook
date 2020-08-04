@@ -10,8 +10,8 @@ lastmodifierdisplayname = "Alex Wolf"
 * 1 tablespoon sugar 
 * 2 teaspoons kosher salt
 * 1 package active dry yeast
-* 2 ¾ all-purpose flour
-* 4 1/2 cups 2 ounces unsalted butter, melted Vegetable oil, for pan 
+* 4 1/2 cups all-purpose flour
+* 2 ounces unsalted butter, melted Vegetable oil, for pan 
 * 10 cups water
 * 2/3 cup baking soda 		
 * 1 large egg yolk beaten with 1 tablespoon water
