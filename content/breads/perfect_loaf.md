@@ -1,6 +1,9 @@
-Stirato Bread, recipe by King Arthur Flour 
-
-From In Search of the Perfect Loaf, by Sam Fromartz
++++
+title = "Stirato Bread, recipe by King Arthur Flour"
+date = "2019-11-10"
+lastmodifierdisplayname = "Adeline McCarney"
+tags= ["Adeline's"]
++++
 
 ## Ingredients
 
