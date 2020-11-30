@@ -7,18 +7,18 @@ tags= ["Cookies"]
 
 ## INGREDIENTS:
 
-1/2 cup boiling watter
-1 cup butter
-1/2 cup molasses
-4 1/2 cups flour
-2 cups brown sugar
-1 tablespoon ginger
-1 tablespoon cinnamon
-1/2 teaspoon allspice
-1/2 teaspoon salt
-1/4 teaspoon cloves
-1/2 cup cocoa
-1 teaspoon baking soda
+* 1/2 cup boiling watter
+* 1 cup butter
+* 1/2 cup molasses
+* 4 1/2 cups flour
+* 2 cups brown sugar
+* 1 tablespoon ginger
+* 1 tablespoon cinnamon
+* 1/2 teaspoon allspice
+* 1/2 teaspoon salt
+* 1/4 teaspoon cloves
+* 1/2 cup cocoa
+* 1 teaspoon baking soda
 
 ## Directions:
 
