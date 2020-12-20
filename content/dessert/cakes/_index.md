@@ -5,3 +5,5 @@ lastmodifierdisplayname = "Alex Wolf"
 +++
 
 {{%children style="h2" %}}
+
+[Frosting]({{< ref "/dessert/cakes/Frosting" >}} "Frosting")
