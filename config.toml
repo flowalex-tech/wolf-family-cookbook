@@ -1,4 +1,4 @@
-baseurl = "https://wolf-family-cookbook.gitlab.io/"
+baseurl = "https://cookbook.alexanderwolf.io/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -28,10 +28,10 @@ disableNavChevron = false # set true to hide next/prev chevron, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
 enableGitInfo = true
-editURL = "https://gitlab.com/wolf-family-cookbook/wolf-family-cookbook.gitlab.io/tree/master/content/"
+editURL = "https://gitlab.com/wolf-family-cookbook/hugo_cookbook/tree/master/content/"
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-fw fa-gitlab'></i> Gitlab repo"
 identifier = "ds"
-url = "https://gitlab.com/wolf-family-cookbook/wolf-family-cookbook.gitlab.io"
+url = "https://gitlab.com/wolf-family-cookbook/hugo_cookbook"
 weight = 100
