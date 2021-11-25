@@ -46,6 +46,8 @@ resampleFilter = "CatmullRom"
 quality = 75
 anchor = "smart"
 
+
+
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
@@ -85,7 +87,7 @@ archived_version = false
 url_latest_version = "https://cookbook.alexanderwolf.io"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/flowalex-tech/notes"
+github_repo = "https://gitlab.com/wolf-family-cookbook/hugo_cookbook/"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 #github_project_repo = "https://github.com/flowalex-tech/notes"
 
@@ -111,7 +113,7 @@ prism_syntax_highlighting = true
 # User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = false
+sidebar_menu_compact = true
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
@@ -128,8 +130,8 @@ footer_about_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/flowalex-tech/notes/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/flowalex-tech/notes/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://gitlab.com/wolf-family-cookbook/hugo_cookbook/-/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://gitlab.com/wolf-family-cookbook/hugo_cookbook/-/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page,
