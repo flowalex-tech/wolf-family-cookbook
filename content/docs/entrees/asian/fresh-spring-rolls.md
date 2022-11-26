@@ -32,7 +32,7 @@ From [Cookie + Kate](https://cookieandkate.com/fresh-spring-rolls-recipe/)
 * 2 cloves garlic, pressed or minced
 * 2 to 3 tablespoons water, as needed
 
-## INSTRUCTIONS
+## Directions:
 
 1. To make the spring rolls: Bring a pot of water to boil and cook the noodles just until al dente, according to package directions. Drain, rinse them under cool water, and return them to the pot. Off the heat, toss the noodles with the sesame oil and salt, and set aside.
 1. Fill a shallow pan (a pie pan or 9″ round cake pan works great) with an inch of water. Fold a lint-free tea towel in half and place it next to the dish. Make sure your prepared fillings are within reach. Combine the green onion, cilantro and mint in a small bowl, and stir.
@@ -42,7 +42,7 @@ From [Cookie + Kate](https://cookieandkate.com/fresh-spring-rolls-recipe/)
 1. To make the peanut sauce: In a small bowl, whisk together the peanut butter, rice vinegar, tamari, honey, sesame oil, and garlic. Whisk in 2 to 3 tablespoons water, as needed to make a super creamy but dip-able sauce.
 1. Serve the spring rolls with peanut sauce on the side. You can serve them whole, or sliced in half on the diagonal with a sharp chef’s knife.
 
-{{%  alert title="Note:" alert color='primary' %}}
+{{%  alert title="Note:" color='primary' %}}
 * NOODLE NOTE: I always opt for whole grains when I can, so I used Annie Chun’s brand of maifun brown rice noodles. I found them with the Asian ingredients at Whole Foods.
 * MAKE IT GLUTEN FREE: Be sure to use certified gluten free noodles and tamari (not soy sauce, which typically contains gluten).
 * MAKE IT VEGAN: Use maple syrup instead of honey.
