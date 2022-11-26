@@ -4,7 +4,7 @@ date = "2022-11-26"
 lastmodifierdisplayname = "Sam Turnbull"
 +++
 
-{{<figure src="/images/Patties-1024X450.jpg ">}}
+{{<figure src="/images/Patties-1024X450.jpg">}}
 
 ## INGREDIENTS:
 ### For the pastry:

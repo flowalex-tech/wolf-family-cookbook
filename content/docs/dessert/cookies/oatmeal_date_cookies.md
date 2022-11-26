@@ -23,3 +23,7 @@ tags= ["Cookies"]
 * 1 cup sugar
 
 ## Directions:
+
+{{% pageinfo color="primary" %}}
+This is placeholder content.
+{{% /pageinfo %}}

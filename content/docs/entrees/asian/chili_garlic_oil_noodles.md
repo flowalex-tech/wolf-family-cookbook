@@ -4,7 +4,7 @@ date = "2022-11-26"
 lastmodifierdisplayname = "Jeeca"
 +++
 
-{{<figure src="/images/chili-garlic-oil-noodles-9-683x1024.webp ">}}
+{{<figure src="/images/chili-garlic-oil-noodles-9-683x1024.webp">}}
 
 Recipe from [The Foodie Takes FLight](https://thefoodietakesflight.com/easy-chili-garlic-oil-noodles/)
 
