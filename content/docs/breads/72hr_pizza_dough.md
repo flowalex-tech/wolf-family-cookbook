@@ -5,6 +5,8 @@ tags = ["Pizza"]
 lastmodifierdisplayname = "ANDRIS LAGSDIN"
 +++
 
+{{<figure src="/images/72hrdough.jpg">}}
+
 {{% alert  %}}
 Recipe from [Baking With Steel](https://www.bakingsteel.com/blog/72-hour-pizza-dough)
 {{% /alert %}}
