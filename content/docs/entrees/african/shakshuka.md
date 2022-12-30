@@ -1,10 +1,10 @@
 +++
-title = "The Best Vegan Lasagna"
+title = "Shakshuka"
 date = "2022-12-30"
 lastmodifierdisplayname = "Alex Wolf"
 +++
 
-{{<figure src="images/best-shakshuka-recipe-3-768x1154.jpg">}}
+{{<figure src="/images/best-shakshuka-recipe-3-768x1154.jpg">}}
 
 Recipe from [Cookie and Kate](https://cookieandkate.com/foolproof-shakshuka-recipe/#tasty-recipes-32898-jump-target)
 

@@ -5,7 +5,7 @@ lastmodifierdisplayname = "Alex Wolf"
 tags = ["Vegan"]
 +++
 
-{{<figure src="images/Vegan-Lasagna-16.jpg">}}
+{{<figure src="/images/Vegan-Lasagna-16.jpg">}}
 
 Recipe from [Jessica in the Kitchen](https://jessicainthekitchen.com/best-vegan-lasagna-recipe/#recipe)    
 
