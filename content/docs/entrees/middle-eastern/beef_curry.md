@@ -1,7 +1,7 @@
 +++
 title = "Beef Curry"
 date = "2019-11-15"
-tags = ["Middle Eastern","Iraqui"]
+tags = ["Middle Eastern","Iraqui", "Beef"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

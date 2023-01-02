@@ -2,7 +2,7 @@
 title = "Adeline's Tapioca Pudding Salad"
 date = "2019-10-11"
 lastmodifierdisplayname = "Adeline McCarney"
-tags= ["Adeline's"]
+tags= ["Adeline's", "American"]
 +++
 
 ## Ingredients:

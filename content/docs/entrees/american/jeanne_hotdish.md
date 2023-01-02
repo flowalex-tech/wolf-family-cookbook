@@ -1,8 +1,9 @@
----
-title: Jeanne's Hot Dish
-author: Alex Wolf
----
-# Jeanne's Hot Dish
++++
+title = "Jeanne's Hot Dish"
+date = "2019-12-26"
+tags = ["Hotdish"]
+lastmodifierdisplayname = "Jeanne Lorensen"
++++
 
 ## How To Make:
 
@@ -15,6 +16,6 @@ author: Alex Wolf
 * Bake for 45 minutes and turn the oven off
 * Add layer of onion rings
 
-:::tip
+{{% alert color='info' %}}
 Serve in 5-10 minutes
-:::
+{{% /alert %}}

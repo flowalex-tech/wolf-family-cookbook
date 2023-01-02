@@ -2,6 +2,7 @@
 title = "Fresh Spring Rolls with Peanut Sauce"
 date = "2022-11-26"
 lastmodifierdisplayname = "Cookie And Kate"
+tags = ["Vegan"]
 +++
 
 {{<figure src="/images/fresh-spring-rolls-recipe-4-768x1154.jpg">}}

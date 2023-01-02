@@ -2,7 +2,7 @@
 title = "Greek Pita Sandwiches"
 date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Greek"]
+tags = ["Greek", "Beef", "Lamb"]
 +++
 
 ## INGREDIENTS:

@@ -1,7 +1,7 @@
 +++
 title = "Spinach With Chickpeas"
 date = "2019-10-11"
-tags = ["Spanish"]
+tags = ["Spanish", "Vegan"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

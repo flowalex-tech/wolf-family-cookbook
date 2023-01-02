@@ -2,6 +2,7 @@
 title = "Michael Twitty Mac and Cheese"
 date = "2022-11-26"
 lastmodifierdisplayname = "Nicole Hoiland"
+tags = ["Vegan"]
 +++
 
 > This is from Michael Twitty...chef, food writer, culinary historian..overall star...

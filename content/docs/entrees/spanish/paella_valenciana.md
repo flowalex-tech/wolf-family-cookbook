@@ -1,7 +1,7 @@
 +++
 title = "Paella Valenciana"
 date = "2019-10-11"
-tags = ["Spanish"]
+tags = ["Spanish", "Chicken"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

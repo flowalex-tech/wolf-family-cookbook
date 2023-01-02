@@ -2,7 +2,7 @@
 title = "Korean Beef Bulgogi"
 date = "2019-30-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Korean", "Vegan"]
+tags = ["Korean", "Beef"]
 +++
 
 {{<figure src="/images/beef_bolgolgi.jpg">}}

@@ -1,7 +1,7 @@
 +++
 title = "RAVNEET GILL’S STEAMED BUNS"
 date = "2022-11-26"
-tags = ["Great_British_Bake_Off", "GBBO"]
+tags = ["GBBO"]
 lastmodifierdisplayname = "RAVNEET GILL"
 +++
 

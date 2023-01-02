@@ -2,9 +2,10 @@
 title = "Shakshuka"
 date = "2022-12-30"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["African"]
 +++
 
-{{<figure src="/images/best-shakshuka-recipe-3-768x1154.jpg">}}
+
 
 Recipe from [Cookie and Kate](https://cookieandkate.com/foolproof-shakshuka-recipe/#tasty-recipes-32898-jump-target)
 
@@ -62,6 +63,7 @@ Recipe from [Cookie and Kate](https://cookieandkate.com/foolproof-shakshuka-reci
 * 1 ½ cup crumbled feta
 * Crusty bread or pita, for serving
 {{< /tab >}}
+{{< /tabpane >}}
 
 ## Directions:
 1. Preheat the oven to 375 degrees Fahrenheit. Warm the oil in a large, oven-safe skillet (preferably stainless steel) over medium heat. Once shimmering, add the onion, bell pepper, and salt. Cook, stirring often, until the onions are tender and turning translucent, about 4 to 6 minutes.
@@ -82,3 +84,5 @@ MAKE IT VEGAN: While untraditional, I think this would be great with chickpeas (
 
 MAKE IT GLUTEN FREE: The shakshuka itself is gluten free. Choose gluten-free bread or omit it altogether.
 {{% /pageinfo %}}
+
+{{<figure src="/images/best-shakshuka-recipe-3-768x1154.jpg">}}

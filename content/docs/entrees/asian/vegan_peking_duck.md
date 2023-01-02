@@ -2,7 +2,7 @@
 title = 'Vegan Peking "Duck"'
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Asian", "Vegan"]
+tags = ["Vegan"]
 +++
 
 {{<figure src="/images/vegan_peking_duck.png">}}

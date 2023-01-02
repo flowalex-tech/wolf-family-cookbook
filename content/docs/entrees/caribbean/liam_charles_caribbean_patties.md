@@ -1,7 +1,8 @@
 +++
 title = "LIAM CHARLES’S CARIBBEAN PATTIES"
 date = "2022-11-26"
-lastmodifierdisplayname = "Sam Turnbull"
+lastmodifierdisplayname = "LIAM CHARLES"
+tags = ["GBBO", "Jamacian"]
 +++
 
 {{<figure src="/images/Patties-1024X450.jpg">}}

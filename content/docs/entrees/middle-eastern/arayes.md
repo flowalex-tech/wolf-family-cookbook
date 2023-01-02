@@ -1,7 +1,7 @@
 +++
 title = "Arayes"
 date = "2019-11-15"
-tags = ["Middle Eastern","Lebanese"]
+tags = ["Middle Eastern","Lebanese", "Beef"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

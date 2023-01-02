@@ -1,7 +1,6 @@
 ---
 title: Beer Pretzel Caramels
 author: Jim Radke
-type: Muffins
 ---
 
 # Beer Pretzel Caramels

@@ -2,7 +2,7 @@
 title = "Crispy Asian Brussels Sprouts"
 date = "2019-12-24"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Asian"]
+tags = ["Thai"]
 +++
 
 {{<figure src="/images/Crispy-Asian-Brussels-Sprouts-5.jpg">}}

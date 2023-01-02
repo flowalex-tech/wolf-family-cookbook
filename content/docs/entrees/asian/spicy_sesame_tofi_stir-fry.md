@@ -2,6 +2,7 @@
 title = "Spicy Sesame Tofu Stir-fry"
 date = "2022-11-26"
 lastmodifierdisplayname = "Jake"
+tags = ["Vegan"]
 +++
 
 {{<figure src="/images/Spicy-Sesame-Tofu-Stir-fry-Plant-Based-on-a-Budget-4.jpg">}}

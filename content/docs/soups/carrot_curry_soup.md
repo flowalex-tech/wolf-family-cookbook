@@ -1,8 +1,8 @@
----
-title: Carrot Curry Soup
-author: Margaret McCarney
-type: Soups
----
++++
+title = "Carrot Curry Soup"
+author = "Margaret McCarney"
+tags= [ "American"]
++++
 
 # Carrot Curry Soup
 

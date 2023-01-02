@@ -2,6 +2,7 @@
 title = "Kung Pao Chicken"
 date = "2022-11-26"
 lastmodifierdisplayname = "Karina"
+tags = ["Chicken"]
 +++
 
 {{<figure src="/images/Best-Kung-Pao-Chicken-IMAGE-2.jpg">}}

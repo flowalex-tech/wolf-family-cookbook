@@ -2,7 +2,7 @@
 title = "Bread with Mushrooms and Alioli"
 date = "2019-12-24"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Tapas"]
+tags = ["Tapas", "Spanish"]
 +++
 
 ## INGREDIENTS:

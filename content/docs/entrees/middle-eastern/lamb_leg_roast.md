@@ -1,7 +1,7 @@
 +++
 title = "Roast Leg of Lamb with Orzo"
 date = "2019-15-11"
-tags = ["Greek"]
+tags = ["Greek", "Lamb"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

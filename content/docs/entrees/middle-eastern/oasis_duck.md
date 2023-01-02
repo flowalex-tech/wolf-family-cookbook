@@ -2,7 +2,7 @@
 title = "Oasis Duck"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern", "Egyptian"]
+tags = ["Middle Eastern", "Egyptian", "Duck"]
 +++
 
 ## INGREDIENTS:

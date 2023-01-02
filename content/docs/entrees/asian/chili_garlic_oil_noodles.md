@@ -2,6 +2,7 @@
 title = "Easy Chili Garlic Oil Noodles"
 date = "2022-11-26"
 lastmodifierdisplayname = "Jeeca"
+tags = ["Vegan"]
 +++
 
 {{<figure src="/images/chili-garlic-oil-noodles-9-683x1024.webp">}}

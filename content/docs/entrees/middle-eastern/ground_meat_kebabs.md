@@ -1,7 +1,7 @@
 +++
 title = "Ground-Meat Kebabs"
 date = "2019-15-11"
-tags = ["Middle Eastern","Moroccan"]
+tags = ["Middle Eastern","Moroccan", "Beef", "Lamb"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

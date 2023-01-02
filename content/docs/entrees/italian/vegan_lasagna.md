@@ -2,7 +2,7 @@
 title = "The Best Vegan Lasagna"
 date = "2022-12-30"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Vegan"]
+tags = ["Vegan", "Italian"]
 +++
 
 {{<figure src="/images/Vegan-Lasagna-16.jpg">}}
@@ -33,3 +33,5 @@ Recipe from [Jessica in the Kitchen](https://jessicainthekitchen.com/best-vegan-
 1. Next, add about some of the “meat” marinara sauce mixture (just ensure you have enough for 4 even layers) and then 1/3 of the vegan ricotta, and about 1/3 of the remaining vegan mozzarella on top of the ricotta.
 1. Repeat layers until you’ve reached the top layer. Add the remaining meat sauce on top then sprinkle/spread the previously set aside 1 cup vegan mozzarella over it.
 1. Cover the pan with foil and bake in the oven for 30 minutes covered. Then broil for about 3-5 minutes of low broil to brown the cheese on top. Top with basil, and allow to set up on the counter for about 10 minutes before cutting into slices. Cut into 9 or 12 even slices. Serve and enjoy!
+
+{{<figure src="/images/Vegan-Lasagna-16.jpg">}}

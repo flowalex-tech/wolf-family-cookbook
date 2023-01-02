@@ -2,7 +2,7 @@
 title = "Adeline's Turkey Dressing"
 date = "2019-11-10"
 lastmodifierdisplayname = "Adeline McCarney"
-tags= ["Adeline's"]
+tags= ["Adeline's", "American", "Thanksgiving"]
 +++
 
 ## Ingredients:
