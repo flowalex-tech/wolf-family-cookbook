@@ -2,7 +2,7 @@
 title = "Lemon Chicken"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern", "Moroccan"]
+tags = ["Middle Eastern", "Moroccan", "Chicken"]
 +++
 
 ## Ingredients:

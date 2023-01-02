@@ -2,7 +2,7 @@
 title = "Veggie Pizza"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern"]
+tags = ["Pizza"]
 +++
 
 ## Ingredients:

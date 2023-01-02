@@ -2,6 +2,7 @@
 title = "Cake Doughnuts"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["Doughnuts"]
 +++
 
 ## INGREDIENTS:

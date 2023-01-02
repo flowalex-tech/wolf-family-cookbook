@@ -2,7 +2,7 @@
 title = "Thai Basil Chicken"
 date = "2019-30-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Thai", "Asian"]
+tags = ["Thai", "Chicken"]
 +++
 
 {{<figure src="/images/thai_basil_chicken.jpg">}}

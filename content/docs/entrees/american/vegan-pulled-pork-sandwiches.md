@@ -1,7 +1,8 @@
----
-title: Vegan Pulled Pork Sandwiches
-author: Alex Wolf
----
++++
+title = "Vegan Pulled Pork Sandwiches"
+author = "Alex Wolf"
+tags = ["Vegan"]
++++
 # Vegan Pulled Pork Sandwiches
 
 ## Ingredients:

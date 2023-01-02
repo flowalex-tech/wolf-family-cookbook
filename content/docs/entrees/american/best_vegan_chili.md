@@ -2,6 +2,7 @@
 title = "The Best Vegan Chili Ever"
 date = "2022-11-26"
 lastmodifierdisplayname = "Sam Turnbull"
+tags = ["Vegan"]
 +++
 
 {{<figure src="/images/The-Best-Vegan-Chili-Ever-recipe-vegetarian-tofu-beans-easy.webp">}}

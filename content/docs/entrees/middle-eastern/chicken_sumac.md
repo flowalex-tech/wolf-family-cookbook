@@ -2,7 +2,7 @@
 title = "Chicken Sumac"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern", "Jordanian"]
+tags = ["Middle Eastern", "Jordanian", "Chicken"]
 +++
 
 {{% alert color='warning' %}}

@@ -2,6 +2,7 @@
 title = "Red Lentils in Spicy Berbere Sauce"
 date = "2022-11-26"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["Ethiopian", "African"]
 +++
 
 ## INGREDIENTS:

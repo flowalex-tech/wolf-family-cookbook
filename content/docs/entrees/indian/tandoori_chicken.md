@@ -2,7 +2,7 @@
 title = "Tandoori Chicken"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Indian"]
+tags = ["Chicken", "Indian"]
 +++
 
 ## INGREDIENTS:

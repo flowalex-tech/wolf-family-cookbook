@@ -1,8 +1,9 @@
----
-title: Sweet Potato Soufflé
-author: Alex Wolf
-type: Side Dishes
----
++++
+title = "Sweet Potato Soufflé"
+author = "Alex Wolf"
+type = "Side Dishes"
+tags = ["American"]
++++
 # Sweet Potato Soufflé
 
 ## INGREDIENTS:

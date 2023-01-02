@@ -2,6 +2,7 @@
 title = "Easy Vegan Jackfruit Tacos"
 date = "2022-11-26"
 lastmodifierdisplayname = "Sam Turnbull"
+tags = ["Vegan", "Hispanic"]
 +++
 
 {{<figure src="/images/easy-vegan-jackfruit-tacos-recipe-mexican-vegetarian.jpg">}}

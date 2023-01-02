@@ -2,7 +2,7 @@
 title = "Chicken Ghee Roast"
 date = "2019-10-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Indian"]
+tags = ["Chicken", "Indian"]
 +++
 
 {{<figure src="images/ghee_chicken_cury.jpg">}}

@@ -1,7 +1,7 @@
 +++
 title = "Duckling in Walnut-Pomegranate Sauce"
 date = "2019-11-11"
-tags = ["Middle Eastern", "Iranian"]
+tags = ["Middle Eastern", "Iranian", "Duck"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

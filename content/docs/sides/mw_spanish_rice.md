@@ -2,6 +2,7 @@
 title = '"Spanish" Rice'
 date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["American"]
 +++
 
 > This is not actually Spanish rice, this is the name from the church cookbook that I pulled the recipe from

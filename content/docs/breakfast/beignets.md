@@ -2,6 +2,7 @@
 title = "French Quarter Beignets"
 date = "2019-07-22"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["Doughnuts"]
 +++
 
 ## INGREDIENTS:

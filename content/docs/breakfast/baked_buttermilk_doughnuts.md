@@ -2,6 +2,7 @@
 title = "Farm Stand Buttermilk Doughnuts Three Ways"
 date = "2020-01-04"
 lastmodifierdisplayname = "Alex Wolf"
+tags = ["Doughnuts"]
 +++
 
 {{<figure src="/images/baked_doughnuts.jpg" height="500px">}}

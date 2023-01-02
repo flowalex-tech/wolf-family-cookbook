@@ -1,7 +1,7 @@
 +++
 title = "Middle Eastern Pizza"
 date = "2019-03-12"
-tags = ["Middle Eastern","Armenian"]
+tags = ["Middle Eastern","Armenian", "Beef", "Lamb"]
 lastmodifierdisplayname = "Alex Wolf"
 +++
 

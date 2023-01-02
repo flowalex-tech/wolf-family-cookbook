@@ -2,7 +2,7 @@
 title = "Arabic Lamb Pies"
 date = "2019-29-11"
 lastmodifierdisplayname = "Alex Wolf"
-tags = ["Middle Eastern"]
+tags = ["Middle Eastern", "Lamb"]
 +++
 
 > Basic Arabic pocket bread dough is used to make pies of many shapes and with a variety of fillings

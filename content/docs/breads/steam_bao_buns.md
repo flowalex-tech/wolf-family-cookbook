@@ -2,6 +2,7 @@
 title = "Steamed Bao Buns"
 date = "2022-11-26"
 lastmodifierdisplayname = "Thanh"
+tags = ["Buns", "Chinese"]
 +++
 
 {{<figure src="/images/sticky-pork-bao-buns-5-683x1024.jpg">}}

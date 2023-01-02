@@ -1,7 +1,8 @@
----
-title: Misira Wat
-author: Bilen
----
++++
+title = "Misira Wat"
+author = "Bilen"
+tags = ["Ethiopian", "African"]
++++
 # Misira Wat
 
 * 1 onion with a lot of oil
